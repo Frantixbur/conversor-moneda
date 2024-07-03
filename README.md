@@ -36,6 +36,9 @@ Conversor de Moneda es un proyecto donde consultar los valores de las principale
 
 - Tener Java Development Kit (JDK). <a href="https://www.oracle.com/ar/java/technologies/downloads/#java17">Descarga JDK v17</a>.
 
+> [!WARNING]
+> Estos requisitos pueden variar dependiendo el dispositivo a usar. 
+
 ## Correr el código
 
 1. Hacer click en ![image](https://github.com/Frantixbur/conversor-moneda/assets/118403119/021327e8-74f8-4bf1-be8c-dde8df58bfad).
@@ -58,7 +61,8 @@ Conversor de Moneda es un proyecto donde consultar los valores de las principale
 
 - Seguido a eso, deberemos especificar el monto deseado a convertir.
 
-- En el caso de solo querer consultar el valor de una moneda, escribir en monto 1.
+> [!TIP]
+> En el caso de solo querer consultar el valor de una moneda, escribir en monto "1".
 
-
-
+## Desarrollador
+### [Franco Chirino](https://github.com/Frantixbur)
