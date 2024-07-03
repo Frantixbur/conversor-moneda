@@ -14,7 +14,7 @@
 
 Conversor de Moneda es un proyecto donde consultar los valores de las principales monedas del mundo.
 
-### Algunas de sus características:
+## Algunas de sus características:
 
 - **Inicio Sencillo**
 
