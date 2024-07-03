@@ -3,7 +3,7 @@
     Conversor de Moneda (console_edition)
     <br />
     <br />
-    ![Diseño sin título](https://github.com/Frantixbur/conversor-moneda/assets/118403119/7d424a2b-9718-4077-94b6-71f956e13586)
+    ![Diseño sin título]()
   </h1>
 </div>
 <p align="center">
